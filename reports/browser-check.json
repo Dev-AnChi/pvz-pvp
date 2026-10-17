@@ -1,0 +1,17 @@
+{
+  "url": "http://127.0.0.1:4173/",
+  "checks": [
+    "plant through keyboard selection + pointer",
+    "zombie through independent keyboard controls",
+    "pause freezes time and rejects placement",
+    "real-time projectile collision",
+    "all four plants and three zombie variants through UI",
+    "all seven actors change actual track transforms",
+    "1366×768, 1920×1080, 1024×600, 800×600: full canvas, no scroll",
+    "in-game fit-preserving zoom and accurate pointer mapping while zoomed",
+    "eating state and damage",
+    "death animation after lethal hit",
+    "both victory overlays with terminal fixtures"
+  ],
+  "errors": []
+}

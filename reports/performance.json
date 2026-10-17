@@ -1,0 +1,11 @@
+{
+  "actors": 35,
+  "frames": 298,
+  "wallSeconds": 5.016300000000745,
+  "simulationSeconds": 5.049999999999987,
+  "maxGap": 0.10530000000074506,
+  "updateCount": 298,
+  "clampedSeconds": 5.007399999998516,
+  "fps": 59.406335346760706,
+  "timeRatio": 1.0067180989971167
+}

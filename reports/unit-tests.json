@@ -1,0 +1,15 @@
+{
+  "passed": 10,
+  "tests": [
+    "placement boundaries, occupied tiles, resources and cooldown",
+    "pause rejects purchases and freezes simulation",
+    "swept projectiles hit the nearest living target",
+    "dead zombies cannot bite or breach",
+    "zombies eat and destroy plants",
+    "both win conditions and terminal state",
+    "sunflower production and resource caps",
+    "actual Reanim assets, inherited frames and visible variants",
+    "state transition starts from the displayed pose",
+    "shooting retains independent stem tracks for both pea plants"
+  ]
+}

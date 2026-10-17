@@ -1,0 +1,3658 @@
+[
+  {
+    "name": "Blover.reanim",
+    "fps": 12,
+    "tracks": 11,
+    "frames": 62,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 32
+      },
+      "anim_loop": {
+        "start": 52,
+        "end": 61
+      },
+      "anim_blow": {
+        "start": 33,
+        "end": 52
+      }
+    }
+  },
+  {
+    "name": "Cabbagepult.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 74,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 35
+      },
+      "anim_shooting": {
+        "start": 36,
+        "end": 73
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 73
+      }
+    }
+  },
+  {
+    "name": "Cactus.reanim",
+    "fps": 12,
+    "tracks": 22,
+    "frames": 95,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 19
+      },
+      "anim_shooting": {
+        "start": 20,
+        "end": 37
+      },
+      "anim_rise": {
+        "start": 38,
+        "end": 52
+      },
+      "anim_idlehigh": {
+        "start": 53,
+        "end": 67
+      },
+      "anim_shootinghigh": {
+        "start": 68,
+        "end": 81
+      },
+      "anim_lower": {
+        "start": 82,
+        "end": 94
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 94
+      }
+    }
+  },
+  {
+    "name": "Caltrop.reanim",
+    "fps": 12,
+    "tracks": 8,
+    "frames": 35,
+    "clips": {
+      "anim_attack": {
+        "start": 25,
+        "end": 34
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 24
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 34
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "Cattail.reanim",
+    "fps": 12,
+    "tracks": 15,
+    "frames": 40,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 23
+      },
+      "anim_shooting": {
+        "start": 24,
+        "end": 39
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 39
+      }
+    }
+  },
+  {
+    "name": "CherryBomb.reanim",
+    "fps": 30,
+    "tracks": 19,
+    "frames": 27,
+    "clips": {
+      "anim_explode": {
+        "start": 0,
+        "end": 13
+      },
+      "anim_idle": {
+        "start": 14,
+        "end": 26
+      }
+    }
+  },
+  {
+    "name": "Chomper.reanim",
+    "fps": 12,
+    "tracks": 30,
+    "frames": 94,
+    "clips": {
+      "anim_swallow": {
+        "start": 66,
+        "end": 93
+      },
+      "anim_chew": {
+        "start": 50,
+        "end": 65
+      },
+      "anim_bite": {
+        "start": 25,
+        "end": 49
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 24
+      }
+    }
+  },
+  {
+    "name": "CobCannon.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 100,
+    "clips": {
+      "anim_unarmed_idle": {
+        "start": 5,
+        "end": 23
+      },
+      "anim_idle": {
+        "start": 39,
+        "end": 57
+      },
+      "anim_shooting": {
+        "start": 58,
+        "end": 99
+      },
+      "anim_charge": {
+        "start": 24,
+        "end": 38
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 99
+      }
+    }
+  },
+  {
+    "name": "Coffeebean.reanim",
+    "fps": 12,
+    "tracks": 5,
+    "frames": 29,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 8
+      },
+      "anim_twitch": {
+        "start": 9,
+        "end": 13
+      },
+      "anim_crumble": {
+        "start": 14,
+        "end": 28
+      }
+    }
+  },
+  {
+    "name": "Coin_gold.reanim",
+    "fps": 30,
+    "tracks": 4,
+    "frames": 21,
+    "clips": {}
+  },
+  {
+    "name": "Coin_silver.reanim",
+    "fps": 30,
+    "tracks": 4,
+    "frames": 21,
+    "clips": {}
+  },
+  {
+    "name": "Cornpult.reanim",
+    "fps": 12,
+    "tracks": 26,
+    "frames": 77,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 23
+      },
+      "anim_shooting": {
+        "start": 24,
+        "end": 57
+      },
+      "anim_full_idle": {
+        "start": 58,
+        "end": 76
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 76
+      }
+    }
+  },
+  {
+    "name": "CrazyDave.reanim",
+    "fps": 24,
+    "tracks": 56,
+    "frames": 266,
+    "clips": {
+      "anim_enter": {
+        "start": 0,
+        "end": 17
+      },
+      "anim_leave": {
+        "start": 18,
+        "end": 32
+      },
+      "anim_blahblah": {
+        "start": 33,
+        "end": 63
+      },
+      "anim_idle": {
+        "start": 64,
+        "end": 84
+      },
+      "anim_smalltalk": {
+        "start": 85,
+        "end": 93
+      },
+      "anim_crazy": {
+        "start": 94,
+        "end": 129
+      },
+      "anim_mediumtalk": {
+        "start": 130,
+        "end": 147
+      },
+      "anim_blink": {
+        "start": 148,
+        "end": 153
+      },
+      "anim_grab": {
+        "start": 154,
+        "end": 209
+      },
+      "anim_enter_handing": {
+        "start": 210,
+        "end": 227
+      },
+      "anim_idle_handing": {
+        "start": 228,
+        "end": 248
+      },
+      "anim_talk_handing": {
+        "start": 249,
+        "end": 257
+      },
+      "anim_enterup": {
+        "start": 258,
+        "end": 265
+      }
+    }
+  },
+  {
+    "name": "Credits_AnyHour.reanim",
+    "fps": 12,
+    "tracks": 90,
+    "frames": 30,
+    "clips": {}
+  },
+  {
+    "name": "Credits_BigBrain.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 12,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Bossdance.reanim",
+    "fps": 12,
+    "tracks": 10,
+    "frames": 36,
+    "clips": {
+      "anim_dance": {
+        "start": 0,
+        "end": 35
+      }
+    }
+  },
+  {
+    "name": "Credits_CrazyDave.reanim",
+    "fps": 12,
+    "tracks": 37,
+    "frames": 36,
+    "clips": {}
+  },
+  {
+    "name": "Credits_DiscoLights.reanim",
+    "fps": 7,
+    "tracks": 3,
+    "frames": 34,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Flower_petals.reanim",
+    "fps": 7,
+    "tracks": 8,
+    "frames": 19,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Football.reanim",
+    "fps": 12,
+    "tracks": 4,
+    "frames": 149,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Infantry.reanim",
+    "fps": 7,
+    "tracks": 7,
+    "frames": 31,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Jackbox.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 138,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Main.reanim",
+    "fps": 7,
+    "tracks": 22,
+    "frames": 400,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Main2.reanim",
+    "fps": 7,
+    "tracks": 25,
+    "frames": 384,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Main3.reanim",
+    "fps": 7,
+    "tracks": 63,
+    "frames": 330,
+    "clips": {}
+  },
+  {
+    "name": "Credits_SolarPower.reanim",
+    "fps": 7,
+    "tracks": 40,
+    "frames": 21,
+    "clips": {}
+  },
+  {
+    "name": "Credits_stage.reanim",
+    "fps": 12.25,
+    "tracks": 7,
+    "frames": 42,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Throat.reanim",
+    "fps": 12,
+    "tracks": 10,
+    "frames": 72,
+    "clips": {}
+  },
+  {
+    "name": "Credits_Tombstones.reanim",
+    "fps": 7,
+    "tracks": 4,
+    "frames": 16,
+    "clips": {}
+  },
+  {
+    "name": "Credits_WeAreTheUndead.reanim",
+    "fps": 10.5,
+    "tracks": 21,
+    "frames": 88,
+    "clips": {
+      "anim_so_undead": {
+        "start": 44,
+        "end": 87
+      },
+      "anim_undead": {
+        "start": 0,
+        "end": 43
+      }
+    }
+  },
+  {
+    "name": "Credits_ZombieArmy1.reanim",
+    "fps": 7,
+    "tracks": 45,
+    "frames": 2,
+    "clips": {}
+  },
+  {
+    "name": "Credits_ZombieArmy2.reanim",
+    "fps": 7,
+    "tracks": 33,
+    "frames": 1,
+    "clips": {}
+  },
+  {
+    "name": "Diamond.reanim",
+    "fps": 30,
+    "tracks": 6,
+    "frames": 52,
+    "clips": {}
+  },
+  {
+    "name": "Digger_rising_dirt.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 25,
+    "clips": {}
+  },
+  {
+    "name": "DoomShroom.reanim",
+    "fps": 12,
+    "tracks": 8,
+    "frames": 77,
+    "clips": {
+      "anim_sleep": {
+        "start": 52,
+        "end": 76
+      },
+      "anim_explode": {
+        "start": 19,
+        "end": 51
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 19
+      }
+    }
+  },
+  {
+    "name": "FinalWave.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 23,
+    "clips": {}
+  },
+  {
+    "name": "fire.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 13,
+    "clips": {
+      "anim_flame": {
+        "start": 0,
+        "end": 2
+      },
+      "anim_done": {
+        "start": 3,
+        "end": 12
+      }
+    }
+  },
+  {
+    "name": "FirePea.reanim",
+    "fps": 12,
+    "tracks": 5,
+    "frames": 25,
+    "clips": {}
+  },
+  {
+    "name": "FumeShroom.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 68,
+    "clips": {
+      "anim_sleep": {
+        "start": 51,
+        "end": 67
+      },
+      "anim_shooting": {
+        "start": 21,
+        "end": 50
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 20
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 67
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "Garlic.reanim",
+    "fps": 12,
+    "tracks": 8,
+    "frames": 19,
+    "clips": {
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 18
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 18
+      }
+    }
+  },
+  {
+    "name": "GatlingPea.reanim",
+    "fps": 12,
+    "tracks": 22,
+    "frames": 93,
+    "clips": {
+      "anim_idle": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_shooting": {
+        "start": 54,
+        "end": 92
+      },
+      "anim_head_idle": {
+        "start": 29,
+        "end": 53
+      },
+      "anim_face": {
+        "start": 29,
+        "end": 92
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "GloomShroom.reanim",
+    "fps": 12,
+    "tracks": 21,
+    "frames": 71,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 23
+      },
+      "anim_sleep": {
+        "start": 24,
+        "end": 42
+      },
+      "anim_shooting": {
+        "start": 43,
+        "end": 70
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 70
+      }
+    }
+  },
+  {
+    "name": "GoldMagnet.reanim",
+    "fps": 12,
+    "tracks": 15,
+    "frames": 83,
+    "clips": {
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 51
+      },
+      "anim_attract": {
+        "start": 52,
+        "end": 82
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 82
+      }
+    }
+  },
+  {
+    "name": "Gravebuster.reanim",
+    "fps": 12,
+    "tracks": 16,
+    "frames": 39,
+    "clips": {
+      "anim_land": {
+        "start": 0,
+        "end": 6
+      },
+      "anim_idle": {
+        "start": 11,
+        "end": 38
+      }
+    }
+  },
+  {
+    "name": "Hammer.reanim",
+    "fps": 12,
+    "tracks": 5,
+    "frames": 17,
+    "clips": {
+      "anim_open_pot": {
+        "start": 9,
+        "end": 16
+      },
+      "anim_whack_zombie": {
+        "start": 0,
+        "end": 8
+      }
+    }
+  },
+  {
+    "name": "HypnoShroom.reanim",
+    "fps": 12,
+    "tracks": 6,
+    "frames": 40,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 19
+      },
+      "anim_sleep": {
+        "start": 20,
+        "end": 39
+      }
+    }
+  },
+  {
+    "name": "IceShroom.reanim",
+    "fps": 12,
+    "tracks": 7,
+    "frames": 38,
+    "clips": {
+      "anim_idle": {
+        "start": 4,
+        "end": 20
+      },
+      "anim_sleep": {
+        "start": 21,
+        "end": 37
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 37
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "Imitater.reanim",
+    "fps": 48,
+    "tracks": 12,
+    "frames": 84,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 2
+      },
+      "anim_idle": {
+        "start": 3,
+        "end": 52
+      },
+      "anim_explode": {
+        "start": 53,
+        "end": 83
+      },
+      "anim_face": {
+        "start": 3,
+        "end": 52
+      }
+    }
+  },
+  {
+    "name": "Jalapeno.reanim",
+    "fps": 12,
+    "tracks": 11,
+    "frames": 25,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 11
+      },
+      "anim_explode": {
+        "start": 12,
+        "end": 24
+      }
+    }
+  },
+  {
+    "name": "LawnMower.reanim",
+    "fps": 20,
+    "tracks": 19,
+    "frames": 34,
+    "clips": {
+      "anim_normal": {
+        "start": 0,
+        "end": 16
+      },
+      "anim_tricked": {
+        "start": 17,
+        "end": 33
+      }
+    }
+  },
+  {
+    "name": "LawnMoweredZombie.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 8,
+    "clips": {}
+  },
+  {
+    "name": "LilyPad.reanim",
+    "fps": 12,
+    "tracks": 2,
+    "frames": 4,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 0
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "LoadBar_sprout.reanim",
+    "fps": 12,
+    "tracks": 11,
+    "frames": 18,
+    "clips": {
+      "anim_sprout": {
+        "start": 0,
+        "end": 17
+      }
+    }
+  },
+  {
+    "name": "LoadBar_Zombiehead.reanim",
+    "fps": 12,
+    "tracks": 13,
+    "frames": 18,
+    "clips": {
+      "anim_zombie": {
+        "start": 0,
+        "end": 17
+      }
+    }
+  },
+  {
+    "name": "Magnetshroom.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 131,
+    "clips": {
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 32
+      },
+      "anim_nonactive_idle": {
+        "start": 33,
+        "end": 61
+      },
+      "anim_shooting": {
+        "start": 71,
+        "end": 96
+      },
+      "anim_sleep": {
+        "start": 108,
+        "end": 125
+      },
+      "anim_nonactive_idle2": {
+        "start": 126,
+        "end": 130
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 130
+      },
+      "anim_eyes": {
+        "start": 4,
+        "end": 130
+      },
+      "anim_eyes2": {
+        "start": 72,
+        "end": 125
+      },
+      "anim_eyes22": {
+        "start": 72,
+        "end": 125
+      }
+    }
+  },
+  {
+    "name": "Marigold.reanim",
+    "fps": 33,
+    "tracks": 16,
+    "frames": 30,
+    "clips": {
+      "anim_idle": {
+        "start": 5,
+        "end": 29
+      },
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 29
+      }
+    }
+  },
+  {
+    "name": "Melonpult.reanim",
+    "fps": 12,
+    "tracks": 16,
+    "frames": 74,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 35
+      },
+      "anim_shooting": {
+        "start": 36,
+        "end": 73
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 73
+      }
+    }
+  },
+  {
+    "name": "PeaShooter.reanim",
+    "fps": 12,
+    "tracks": 24,
+    "frames": 104,
+    "clips": {
+      "anim_full_idle": {
+        "start": 79,
+        "end": 103
+      },
+      "anim_shooting": {
+        "start": 54,
+        "end": 78
+      },
+      "anim_head_idle": {
+        "start": 29,
+        "end": 53
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_stem": {
+        "start": 4,
+        "end": 103
+      },
+      "anim_face": {
+        "start": 29,
+        "end": 103
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "PeaShooterSingle.reanim",
+    "fps": 12,
+    "tracks": 18,
+    "frames": 104,
+    "clips": {
+      "anim_idle": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_head_idle": {
+        "start": 29,
+        "end": 53
+      },
+      "anim_shooting": {
+        "start": 54,
+        "end": 78
+      },
+      "anim_full_idle": {
+        "start": 79,
+        "end": 103
+      },
+      "anim_stem": {
+        "start": 4,
+        "end": 103
+      },
+      "anim_sprout": {
+        "start": 29,
+        "end": 103
+      },
+      "anim_face": {
+        "start": 29,
+        "end": 103
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "Plantern.reanim",
+    "fps": 12,
+    "tracks": 14,
+    "frames": 25,
+    "clips": {
+      "anim_idle": {
+        "start": 5,
+        "end": 24
+      },
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 24
+      }
+    }
+  },
+  {
+    "name": "PoolCleaner.reanim",
+    "fps": 12,
+    "tracks": 18,
+    "frames": 70,
+    "clips": {
+      "anim_land": {
+        "start": 0,
+        "end": 10
+      },
+      "anim_water": {
+        "start": 11,
+        "end": 22
+      },
+      "anim_suck": {
+        "start": 23,
+        "end": 46
+      },
+      "anim_landsuck": {
+        "start": 47,
+        "end": 69
+      }
+    }
+  },
+  {
+    "name": "Portal_Circle.reanim",
+    "fps": 12,
+    "tracks": 7,
+    "frames": 61,
+    "clips": {
+      "anim_appear": {
+        "start": 0,
+        "end": 16
+      },
+      "anim_pulse": {
+        "start": 17,
+        "end": 30
+      },
+      "anim_pulse_reverse": {
+        "start": 31,
+        "end": 44
+      },
+      "anim_dissapear": {
+        "start": 45,
+        "end": 60
+      }
+    }
+  },
+  {
+    "name": "Portal_Square.reanim",
+    "fps": 12,
+    "tracks": 6,
+    "frames": 60,
+    "clips": {
+      "anim_appear": {
+        "start": 0,
+        "end": 12
+      },
+      "anim_pulse": {
+        "start": 13,
+        "end": 30
+      },
+      "anim_pulse_reverse": {
+        "start": 31,
+        "end": 46
+      },
+      "anim_dissapear": {
+        "start": 47,
+        "end": 59
+      }
+    }
+  },
+  {
+    "name": "Pot.reanim",
+    "fps": 12,
+    "tracks": 8,
+    "frames": 39,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 12
+      },
+      "anim_zengarden": {
+        "start": 13,
+        "end": 25
+      },
+      "anim_waterplants": {
+        "start": 26,
+        "end": 38
+      }
+    }
+  },
+  {
+    "name": "PotatoMine.reanim",
+    "fps": 12,
+    "tracks": 22,
+    "frames": 37,
+    "clips": {
+      "anim_armed": {
+        "start": 20,
+        "end": 30
+      },
+      "anim_rise": {
+        "start": 1,
+        "end": 19
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 0
+      },
+      "anim_blink": {
+        "start": 32,
+        "end": 34
+      },
+      "anim_mashed": {
+        "start": 36,
+        "end": 36
+      },
+      "anim_face": {
+        "start": 10,
+        "end": 30
+      },
+      "anim_eye": {
+        "start": 10,
+        "end": 30
+      },
+      "anim_light": {
+        "start": 0,
+        "end": 30
+      },
+      "anim_glow": {
+        "start": 20,
+        "end": 20
+      }
+    }
+  },
+  {
+    "name": "Puff.reanim",
+    "fps": 12,
+    "tracks": 2,
+    "frames": 15,
+    "clips": {
+      "anim_puff": {
+        "start": 6,
+        "end": 14
+      }
+    }
+  },
+  {
+    "name": "PuffShroom.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 51,
+    "clips": {
+      "anim_sleep": {
+        "start": 34,
+        "end": 50
+      },
+      "anim_shooting": {
+        "start": 21,
+        "end": 33
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 20
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 50
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "Pumpkin.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 21,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 20
+      }
+    }
+  },
+  {
+    "name": "Rain_circle.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 19,
+    "clips": {}
+  },
+  {
+    "name": "Rain_splash.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 8,
+    "clips": {}
+  },
+  {
+    "name": "Rake.reanim",
+    "fps": 20,
+    "tracks": 2,
+    "frames": 8,
+    "clips": {}
+  },
+  {
+    "name": "RoofCleaner.reanim",
+    "fps": 12,
+    "tracks": 11,
+    "frames": 9,
+    "clips": {}
+  },
+  {
+    "name": "ScaredyShroom.reanim",
+    "fps": 12,
+    "tracks": 21,
+    "frames": 86,
+    "clips": {
+      "anim_sleep": {
+        "start": 70,
+        "end": 85
+      },
+      "anim_grow": {
+        "start": 60,
+        "end": 69
+      },
+      "anim_scaredidle": {
+        "start": 49,
+        "end": 59
+      },
+      "anim_scared": {
+        "start": 36,
+        "end": 48
+      },
+      "anim_shooting": {
+        "start": 21,
+        "end": 35
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 20
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 85
+      },
+      "anim_eye2": {
+        "start": 1,
+        "end": 85
+      },
+      "anim_eye1": {
+        "start": 1,
+        "end": 85
+      }
+    }
+  },
+  {
+    "name": "SeaShroom.reanim",
+    "fps": 12,
+    "tracks": 13,
+    "frames": 93,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 3
+      },
+      "anim_sleep": {
+        "start": 43,
+        "end": 67
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_idle_aquarium": {
+        "start": 68,
+        "end": 92
+      },
+      "anim_shooting": {
+        "start": 29,
+        "end": 42
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 92
+      },
+      "anim_waterline": {
+        "start": 4,
+        "end": 67
+      }
+    }
+  },
+  {
+    "name": "SelectorScreen.reanim",
+    "fps": 20,
+    "tracks": 48,
+    "frames": 706,
+    "clips": {
+      "anim_open": {
+        "start": 0,
+        "end": 12
+      },
+      "anim_sign": {
+        "start": 13,
+        "end": 40
+      },
+      "anim_idle": {
+        "start": 41,
+        "end": 77
+      },
+      "anim_grass": {
+        "start": 78,
+        "end": 102
+      },
+      "anim_flower2": {
+        "start": 103,
+        "end": 160
+      },
+      "anim_flower1": {
+        "start": 161,
+        "end": 178
+      },
+      "anim_flower3": {
+        "start": 179,
+        "end": 197
+      },
+      "anim_cloud1": {
+        "start": 198,
+        "end": 335
+      },
+      "anim_cloud7": {
+        "start": 336,
+        "end": 421
+      },
+      "anim_cloud2": {
+        "start": 422,
+        "end": 502
+      },
+      "anim_cloud4": {
+        "start": 503,
+        "end": 705
+      },
+      "anim_cloud6": {
+        "start": 569,
+        "end": 638
+      },
+      "anim_cloud5": {
+        "start": 639,
+        "end": 705
+      }
+    }
+  },
+  {
+    "name": "SlotMachine.reanim",
+    "fps": 12,
+    "tracks": 5,
+    "frames": 9,
+    "clips": {
+      "anim_return": {
+        "start": 4,
+        "end": 8
+      },
+      "anim_pull": {
+        "start": 0,
+        "end": 4
+      }
+    }
+  },
+  {
+    "name": "SnowPea.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 104,
+    "clips": {
+      "anim_full_idle": {
+        "start": 79,
+        "end": 103
+      },
+      "anim_shooting": {
+        "start": 54,
+        "end": 78
+      },
+      "anim_head_idle": {
+        "start": 29,
+        "end": 53
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_stem": {
+        "start": 4,
+        "end": 103
+      },
+      "anim_face": {
+        "start": 29,
+        "end": 103
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "SodRoll.reanim",
+    "fps": 24,
+    "tracks": 2,
+    "frames": 48,
+    "clips": {}
+  },
+  {
+    "name": "SpikeRock.reanim",
+    "fps": 12,
+    "tracks": 19,
+    "frames": 33,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 2
+      },
+      "anim_idle": {
+        "start": 3,
+        "end": 17
+      },
+      "anim_attack": {
+        "start": 18,
+        "end": 32
+      },
+      "anim_face": {
+        "start": 3,
+        "end": 32
+      },
+      "anim_eye_leftbrow": {
+        "start": 0,
+        "end": 32
+      },
+      "anim_eye_rightbrow": {
+        "start": 0,
+        "end": 32
+      }
+    }
+  },
+  {
+    "name": "splash.reanim",
+    "fps": 18,
+    "tracks": 6,
+    "frames": 14,
+    "clips": {}
+  },
+  {
+    "name": "SplitPea.reanim",
+    "fps": 12,
+    "tracks": 22,
+    "frames": 132,
+    "clips": {
+      "anim_idle": {
+        "start": 7,
+        "end": 31
+      },
+      "anim_shooting": {
+        "start": 107,
+        "end": 131
+      },
+      "anim_head_idle": {
+        "start": 82,
+        "end": 106
+      },
+      "anim_face": {
+        "start": 82,
+        "end": 131
+      },
+      "anim_splitpea_idle": {
+        "start": 32,
+        "end": 56
+      },
+      "anim_splitpea_shooting": {
+        "start": 57,
+        "end": 69
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_SplitPea_blink": {
+        "start": 4,
+        "end": 6
+      }
+    }
+  },
+  {
+    "name": "Squash.reanim",
+    "fps": 12,
+    "tracks": 10,
+    "frames": 73,
+    "clips": {
+      "anim_jumpdown": {
+        "start": 65,
+        "end": 72
+      },
+      "anim_jumpup": {
+        "start": 50,
+        "end": 64
+      },
+      "anim_lookright": {
+        "start": 37,
+        "end": 42
+      },
+      "anim_lookleft": {
+        "start": 24,
+        "end": 29
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 23
+      },
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 72
+      },
+      "anim_eye": {
+        "start": 0,
+        "end": 72
+      }
+    }
+  },
+  {
+    "name": "Starfruit.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 39,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 21
+      },
+      "anim_shoot": {
+        "start": 22,
+        "end": 38
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 38
+      }
+    }
+  },
+  {
+    "name": "StartReadySetPlant.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 22,
+    "clips": {}
+  },
+  {
+    "name": "Stinky.reanim",
+    "fps": 12,
+    "tracks": 11,
+    "frames": 71,
+    "clips": {
+      "anim_crawl": {
+        "start": 0,
+        "end": 15
+      },
+      "anim_turn": {
+        "start": 16,
+        "end": 23
+      },
+      "anim_in": {
+        "start": 24,
+        "end": 42
+      },
+      "anim_out": {
+        "start": 43,
+        "end": 57
+      },
+      "anim_idle": {
+        "start": 58,
+        "end": 70
+      }
+    }
+  },
+  {
+    "name": "Sun.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 13,
+    "clips": {}
+  },
+  {
+    "name": "SunFlower.reanim",
+    "fps": 12,
+    "tracks": 29,
+    "frames": 29,
+    "clips": {
+      "anim_idle": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "SunShroom.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 63,
+    "clips": {
+      "anim_bigsleep": {
+        "start": 51,
+        "end": 62
+      },
+      "anim_bigidle": {
+        "start": 39,
+        "end": 50
+      },
+      "anim_grow": {
+        "start": 27,
+        "end": 38
+      },
+      "anim_sleep": {
+        "start": 17,
+        "end": 62
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 16
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 62
+      },
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      }
+    }
+  },
+  {
+    "name": "Tallnut.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 37,
+    "clips": {
+      "anim_idle": {
+        "start": 20,
+        "end": 36
+      },
+      "anim_blink_twice": {
+        "start": 1,
+        "end": 7
+      },
+      "anim_blink_thrice": {
+        "start": 9,
+        "end": 19
+      }
+    }
+  },
+  {
+    "name": "Tanglekelp.reanim",
+    "fps": 12,
+    "tracks": 17,
+    "frames": 54,
+    "clips": {
+      "anim_blink": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 26
+      },
+      "anim_grab": {
+        "start": 27,
+        "end": 31
+      },
+      "anim_idle_aquarium": {
+        "start": 32,
+        "end": 53
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 53
+      },
+      "anim_waterline": {
+        "start": 5,
+        "end": 26
+      }
+    }
+  },
+  {
+    "name": "TextFadeOn.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 40,
+    "clips": {
+      "anim_leave": {
+        "start": 19,
+        "end": 39
+      },
+      "anim_enter": {
+        "start": 0,
+        "end": 19
+      }
+    }
+  },
+  {
+    "name": "ThreePeater.reanim",
+    "fps": 12,
+    "tracks": 36,
+    "frames": 149,
+    "clips": {
+      "anim_shooting2": {
+        "start": 111,
+        "end": 123
+      },
+      "anim_head_idle2": {
+        "start": 86,
+        "end": 110
+      },
+      "anim_blink2": {
+        "start": 83,
+        "end": 85
+      },
+      "anim_shooting3": {
+        "start": 70,
+        "end": 82
+      },
+      "anim_head_idle3": {
+        "start": 45,
+        "end": 69
+      },
+      "anim_blink3": {
+        "start": 42,
+        "end": 44
+      },
+      "anim_shooting1": {
+        "start": 29,
+        "end": 41
+      },
+      "anim_head_idle1": {
+        "start": 4,
+        "end": 28
+      },
+      "anim_blink1": {
+        "start": 1,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 124,
+        "end": 148
+      },
+      "anim_head1": {
+        "start": 124,
+        "end": 148
+      },
+      "anim_face1": {
+        "start": 4,
+        "end": 41
+      },
+      "anim_head3": {
+        "start": 124,
+        "end": 148
+      },
+      "anim_face3": {
+        "start": 45,
+        "end": 82
+      },
+      "anim_head2": {
+        "start": 124,
+        "end": 148
+      },
+      "anim_face2": {
+        "start": 86,
+        "end": 123
+      }
+    }
+  },
+  {
+    "name": "Torchwood.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 25,
+    "clips": {
+      "anim_idle": {
+        "start": 4,
+        "end": 24
+      },
+      "anim_blink": {
+        "start": 0,
+        "end": 3
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 24
+      }
+    }
+  },
+  {
+    "name": "TreeFood.reanim",
+    "fps": 20,
+    "tracks": 2,
+    "frames": 31,
+    "clips": {}
+  },
+  {
+    "name": "treeofWisdom.reanim",
+    "fps": 12,
+    "tracks": 109,
+    "frames": 354,
+    "clips": {
+      "anim_start": {
+        "start": 0,
+        "end": 10
+      },
+      "anim_grow1": {
+        "start": 11,
+        "end": 18
+      },
+      "anim_grow2": {
+        "start": 19,
+        "end": 29
+      },
+      "anim_grow3": {
+        "start": 30,
+        "end": 36
+      },
+      "anim_grow4": {
+        "start": 37,
+        "end": 43
+      },
+      "anim_grow5": {
+        "start": 44,
+        "end": 50
+      },
+      "anim_grow6": {
+        "start": 51,
+        "end": 56
+      },
+      "anim_grow7": {
+        "start": 57,
+        "end": 66
+      },
+      "anim_grow8": {
+        "start": 67,
+        "end": 73
+      },
+      "anim_grow9": {
+        "start": 74,
+        "end": 80
+      },
+      "anim_grow10": {
+        "start": 81,
+        "end": 87
+      },
+      "anim_grow11": {
+        "start": 88,
+        "end": 94
+      },
+      "anim_grow12": {
+        "start": 95,
+        "end": 103
+      },
+      "anim_grow13": {
+        "start": 104,
+        "end": 109
+      },
+      "anim_grow14": {
+        "start": 110,
+        "end": 115
+      },
+      "anim_grow15": {
+        "start": 116,
+        "end": 122
+      },
+      "anim_grow16": {
+        "start": 123,
+        "end": 129
+      },
+      "anim_grow17": {
+        "start": 130,
+        "end": 136
+      },
+      "anim_grow18": {
+        "start": 137,
+        "end": 145
+      },
+      "anim_grow19": {
+        "start": 146,
+        "end": 152
+      },
+      "anim_grow20": {
+        "start": 153,
+        "end": 159
+      },
+      "anim_grow21": {
+        "start": 160,
+        "end": 166
+      },
+      "anim_grow22": {
+        "start": 167,
+        "end": 172
+      },
+      "anim_grow23": {
+        "start": 173,
+        "end": 181
+      },
+      "anim_grow24": {
+        "start": 182,
+        "end": 188
+      },
+      "anim_grow25": {
+        "start": 189,
+        "end": 195
+      },
+      "anim_grow26": {
+        "start": 196,
+        "end": 202
+      },
+      "anim_grow27": {
+        "start": 203,
+        "end": 209
+      },
+      "anim_grow28": {
+        "start": 210,
+        "end": 216
+      },
+      "anim_grow29": {
+        "start": 217,
+        "end": 223
+      },
+      "anim_grow30": {
+        "start": 224,
+        "end": 230
+      },
+      "anim_grow31": {
+        "start": 231,
+        "end": 237
+      },
+      "anim_grow32": {
+        "start": 238,
+        "end": 243
+      },
+      "anim_grow33": {
+        "start": 244,
+        "end": 251
+      },
+      "anim_grow34": {
+        "start": 252,
+        "end": 258
+      },
+      "anim_grow35": {
+        "start": 259,
+        "end": 265
+      },
+      "anim_grow36": {
+        "start": 266,
+        "end": 274
+      },
+      "anim_grow37": {
+        "start": 275,
+        "end": 278
+      },
+      "anim_grow38": {
+        "start": 279,
+        "end": 282
+      },
+      "anim_grow39": {
+        "start": 283,
+        "end": 286
+      },
+      "anim_grow40": {
+        "start": 287,
+        "end": 290
+      },
+      "anim_grow41": {
+        "start": 291,
+        "end": 294
+      },
+      "anim_grow42": {
+        "start": 295,
+        "end": 303
+      },
+      "anim_grow43": {
+        "start": 304,
+        "end": 307
+      },
+      "anim_grow44": {
+        "start": 308,
+        "end": 311
+      },
+      "anim_grow45": {
+        "start": 312,
+        "end": 319
+      },
+      "anim_grow46": {
+        "start": 320,
+        "end": 323
+      },
+      "anim_grow47": {
+        "start": 324,
+        "end": 327
+      },
+      "anim_grow48": {
+        "start": 328,
+        "end": 331
+      },
+      "anim_grow49": {
+        "start": 332,
+        "end": 334
+      },
+      "anim_grow50": {
+        "start": 335,
+        "end": 344
+      },
+      "anim_grow51": {
+        "start": 345,
+        "end": 353
+      }
+    }
+  },
+  {
+    "name": "TreeOfWisdomClouds.reanim",
+    "fps": 12,
+    "tracks": 6,
+    "frames": 625,
+    "clips": {}
+  },
+  {
+    "name": "TwinSunflower.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 34,
+    "clips": {
+      "anim_blink": {
+        "start": 4,
+        "end": 8
+      },
+      "anim_blink2": {
+        "start": 0,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 9,
+        "end": 33
+      },
+      "anim_face2": {
+        "start": 9,
+        "end": 33
+      },
+      "anim_face": {
+        "start": 9,
+        "end": 33
+      }
+    }
+  },
+  {
+    "name": "Umbrellaleaf.reanim",
+    "fps": 12,
+    "tracks": 12,
+    "frames": 32,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 3
+      },
+      "anim_idle": {
+        "start": 4,
+        "end": 18
+      },
+      "anim_block": {
+        "start": 19,
+        "end": 31
+      },
+      "anim_face": {
+        "start": 4,
+        "end": 31
+      }
+    }
+  },
+  {
+    "name": "Wallnut.reanim",
+    "fps": 12,
+    "tracks": 6,
+    "frames": 56,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 16
+      },
+      "anim_face": {
+        "start": 0,
+        "end": 55
+      },
+      "anim_blink_twitch": {
+        "start": 17,
+        "end": 21
+      },
+      "anim_blink_twice": {
+        "start": 23,
+        "end": 29
+      },
+      "anim_blink_thrice": {
+        "start": 31,
+        "end": 41
+      }
+    }
+  },
+  {
+    "name": "WinterMelon.reanim",
+    "fps": 12,
+    "tracks": 16,
+    "frames": 74,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 4
+      },
+      "anim_idle": {
+        "start": 5,
+        "end": 35
+      },
+      "anim_shooting": {
+        "start": 36,
+        "end": 73
+      },
+      "anim_face": {
+        "start": 5,
+        "end": 73
+      }
+    }
+  },
+  {
+    "name": "Z.reanim",
+    "fps": 12,
+    "tracks": 3,
+    "frames": 17,
+    "clips": {}
+  },
+  {
+    "name": "ZenGarden_bugspray.reanim",
+    "fps": 30,
+    "tracks": 3,
+    "frames": 26,
+    "clips": {}
+  },
+  {
+    "name": "ZenGarden_fertilizer.reanim",
+    "fps": 20,
+    "tracks": 2,
+    "frames": 31,
+    "clips": {}
+  },
+  {
+    "name": "ZenGarden_phonograph.reanim",
+    "fps": 30,
+    "tracks": 5,
+    "frames": 37,
+    "clips": {}
+  },
+  {
+    "name": "ZenGarden_sprout.reanim",
+    "fps": 12,
+    "tracks": 16,
+    "frames": 60,
+    "clips": {
+      "anim_sprout": {
+        "start": 0,
+        "end": 9
+      },
+      "anim_flower": {
+        "start": 10,
+        "end": 17
+      },
+      "anim_idle": {
+        "start": 18,
+        "end": 38
+      },
+      "anim_idle_noflower": {
+        "start": 39,
+        "end": 59
+      }
+    }
+  },
+  {
+    "name": "ZenGarden_wateringcan.reanim",
+    "fps": 20,
+    "tracks": 4,
+    "frames": 34,
+    "clips": {
+      "anim_water": {
+        "start": 0,
+        "end": 16
+      },
+      "anim_water_area": {
+        "start": 17,
+        "end": 33
+      }
+    }
+  },
+  {
+    "name": "zombatar_zombie_head.reanim",
+    "fps": 12,
+    "tracks": 171,
+    "frames": 2,
+    "clips": {
+      "anim_head1": {
+        "start": 0,
+        "end": 1
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 1
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 1
+      }
+    }
+  },
+  {
+    "name": "Zombie.reanim",
+    "fps": 12,
+    "tracks": 42,
+    "frames": 504,
+    "clips": {
+      "anim_superlongdeath": {
+        "start": 292,
+        "end": 428
+      },
+      "anim_swim": {
+        "start": 250,
+        "end": 291
+      },
+      "anim_death2": {
+        "start": 217,
+        "end": 249
+      },
+      "anim_death": {
+        "start": 178,
+        "end": 216
+      },
+      "anim_walk2": {
+        "start": 91,
+        "end": 137
+      },
+      "anim_walk": {
+        "start": 44,
+        "end": 90
+      },
+      "anim_idle2": {
+        "start": 29,
+        "end": 43
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_eat": {
+        "start": 138,
+        "end": 177
+      },
+      "anim_waterdeath": {
+        "start": 429,
+        "end": 453
+      },
+      "anim_dance": {
+        "start": 454,
+        "end": 503
+      },
+      "anim_innerarm3": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_innerarm2": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_innerarm1": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_tongue": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_screendoor": {
+        "start": 0,
+        "end": 177
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_cone": {
+        "start": 0,
+        "end": 503
+      },
+      "anim_bucket": {
+        "start": 0,
+        "end": 503
+      }
+    }
+  },
+  {
+    "name": "ZombiesWon.reanim",
+    "fps": 24,
+    "tracks": 4,
+    "frames": 25,
+    "clips": {
+      "anim_screen": {
+        "start": 24,
+        "end": 24
+      }
+    }
+  },
+  {
+    "name": "Zombie_backup.reanim",
+    "fps": 24,
+    "tracks": 29,
+    "frames": 118,
+    "clips": {
+      "anim_walk": {
+        "start": 0,
+        "end": 20
+      },
+      "anim_armraise": {
+        "start": 21,
+        "end": 42
+      },
+      "anim_eat": {
+        "start": 43,
+        "end": 73
+      },
+      "anim_death": {
+        "start": 74,
+        "end": 117
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 73
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 73
+      }
+    }
+  },
+  {
+    "name": "Zombie_balloon.reanim",
+    "fps": 12,
+    "tracks": 29,
+    "frames": 155,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 12
+      },
+      "anim_swing": {
+        "start": 13,
+        "end": 30
+      },
+      "anim_pop": {
+        "start": 31,
+        "end": 58
+      },
+      "anim_eat": {
+        "start": 59,
+        "end": 83
+      },
+      "anim_walk": {
+        "start": 84,
+        "end": 124
+      },
+      "anim_death": {
+        "start": 125,
+        "end": 152
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 124
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 124
+      }
+    }
+  },
+  {
+    "name": "Zombie_bobsled.reanim",
+    "fps": 12,
+    "tracks": 26,
+    "frames": 176,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 14
+      },
+      "anim_walk": {
+        "start": 15,
+        "end": 53
+      },
+      "anim_push": {
+        "start": 54,
+        "end": 77
+      },
+      "anim_jump": {
+        "start": 78,
+        "end": 101
+      },
+      "anim_death": {
+        "start": 102,
+        "end": 133
+      },
+      "anim_eat": {
+        "start": 134,
+        "end": 175
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 175
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 175
+      }
+    }
+  },
+  {
+    "name": "Zombie_boss.reanim",
+    "fps": 12,
+    "tracks": 72,
+    "frames": 792,
+    "clips": {
+      "anim_enter": {
+        "start": 0,
+        "end": 39
+      },
+      "anim_idle": {
+        "start": 40,
+        "end": 54
+      },
+      "anim_spawn_5": {
+        "start": 55,
+        "end": 75
+      },
+      "anim_spawn_4": {
+        "start": 76,
+        "end": 96
+      },
+      "anim_spawn_3": {
+        "start": 97,
+        "end": 117
+      },
+      "anim_spawn_2": {
+        "start": 118,
+        "end": 138
+      },
+      "anim_spawn_1": {
+        "start": 139,
+        "end": 160
+      },
+      "anim_bungee_1_enter": {
+        "start": 161,
+        "end": 185
+      },
+      "anim_bungee_1_leave": {
+        "start": 186,
+        "end": 203
+      },
+      "anim_stomp_1": {
+        "start": 205,
+        "end": 235
+      },
+      "anim_stomp_2": {
+        "start": 236,
+        "end": 266
+      },
+      "anim_stomp_3": {
+        "start": 267,
+        "end": 295
+      },
+      "anim_stomp_4": {
+        "start": 296,
+        "end": 324
+      },
+      "anim_head_enter": {
+        "start": 325,
+        "end": 381
+      },
+      "anim_head_idle": {
+        "start": 382,
+        "end": 398
+      },
+      "anim_head_attack_1": {
+        "start": 399,
+        "end": 438
+      },
+      "anim_head_attack_2": {
+        "start": 439,
+        "end": 478
+      },
+      "anim_head_attack_3": {
+        "start": 479,
+        "end": 518
+      },
+      "anim_head_attack_4": {
+        "start": 519,
+        "end": 558
+      },
+      "anim_head_attack_5": {
+        "start": 559,
+        "end": 601
+      },
+      "anim_head_leave": {
+        "start": 602,
+        "end": 646
+      },
+      "anim_death": {
+        "start": 647,
+        "end": 753
+      },
+      "anim_RV_1": {
+        "start": 754,
+        "end": 791
+      }
+    }
+  },
+  {
+    "name": "Zombie_Boss_driver.reanim",
+    "fps": 17,
+    "tracks": 22,
+    "frames": 187,
+    "clips": {
+      "anim_swell": {
+        "start": 0,
+        "end": 8
+      },
+      "anim_idle": {
+        "start": 9,
+        "end": 23
+      },
+      "anim_drive": {
+        "start": 24,
+        "end": 48
+      },
+      "anim_damage": {
+        "start": 49,
+        "end": 60
+      },
+      "anim_laugh": {
+        "start": 65,
+        "end": 77
+      },
+      "anim_death": {
+        "start": 78,
+        "end": 163
+      },
+      "anim_flag": {
+        "start": 164,
+        "end": 177
+      },
+      "anim_flag_loop": {
+        "start": 178,
+        "end": 186
+      }
+    }
+  },
+  {
+    "name": "Zombie_boss_fireball.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 73,
+    "clips": {
+      "anim_form": {
+        "start": 0,
+        "end": 15
+      },
+      "anim_role": {
+        "start": 16,
+        "end": 72
+      }
+    }
+  },
+  {
+    "name": "Zombie_boss_iceball.reanim",
+    "fps": 12,
+    "tracks": 12,
+    "frames": 76,
+    "clips": {
+      "anim_form": {
+        "start": 1,
+        "end": 16
+      },
+      "anim_role": {
+        "start": 17,
+        "end": 75
+      }
+    }
+  },
+  {
+    "name": "Zombie_bungi.reanim",
+    "fps": 12,
+    "tracks": 33,
+    "frames": 67,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 19
+      },
+      "anim_drop": {
+        "start": 20,
+        "end": 28
+      },
+      "anim_grab": {
+        "start": 29,
+        "end": 43
+      },
+      "anim_hold": {
+        "start": 44,
+        "end": 53
+      },
+      "anim_raise": {
+        "start": 54,
+        "end": 66
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 66
+      }
+    }
+  },
+  {
+    "name": "Zombie_catapult.reanim",
+    "fps": 12,
+    "tracks": 42,
+    "frames": 85,
+    "clips": {
+      "anim_walk": {
+        "start": 0,
+        "end": 24
+      },
+      "anim_shoot": {
+        "start": 25,
+        "end": 56
+      },
+      "anim_idle": {
+        "start": 57,
+        "end": 69
+      },
+      "anim_bounce": {
+        "start": 70,
+        "end": 84
+      }
+    }
+  },
+  {
+    "name": "Zombie_charred.reanim",
+    "fps": 15,
+    "tracks": 12,
+    "frames": 43,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 19
+      },
+      "anim_crumble": {
+        "start": 0,
+        "end": 42
+      }
+    }
+  },
+  {
+    "name": "Zombie_charred_catapult.reanim",
+    "fps": 12,
+    "tracks": 12,
+    "frames": 30,
+    "clips": {}
+  },
+  {
+    "name": "Zombie_charred_digger.reanim",
+    "fps": 15,
+    "tracks": 12,
+    "frames": 74,
+    "clips": {
+      "anim_crumble": {
+        "start": 0,
+        "end": 36
+      },
+      "anim_crumble_noaxe": {
+        "start": 37,
+        "end": 73
+      }
+    }
+  },
+  {
+    "name": "Zombie_charred_gargantuar.reanim",
+    "fps": 12,
+    "tracks": 9,
+    "frames": 43,
+    "clips": {}
+  },
+  {
+    "name": "Zombie_charred_imp.reanim",
+    "fps": 15,
+    "tracks": 10,
+    "frames": 35,
+    "clips": {}
+  },
+  {
+    "name": "Zombie_charred_zamboni.reanim",
+    "fps": 15,
+    "tracks": 12,
+    "frames": 54,
+    "clips": {
+      "anim_blink": {
+        "start": 0,
+        "end": 21
+      },
+      "anim_crumble": {
+        "start": 22,
+        "end": 53
+      }
+    }
+  },
+  {
+    "name": "Zombie_credits_conehead.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 29,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_innerarm3": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_innerarm2": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_innerarm1": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_tongue": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_cone": {
+        "start": 0,
+        "end": 28
+      }
+    }
+  },
+  {
+    "name": "Zombie_credits_dance.reanim",
+    "fps": 12,
+    "tracks": 32,
+    "frames": 588,
+    "clips": {
+      "anim_dance1": {
+        "start": 0,
+        "end": 11
+      },
+      "anim_dance2": {
+        "start": 12,
+        "end": 23
+      },
+      "anim_dance3": {
+        "start": 24,
+        "end": 140
+      },
+      "anim_dance4": {
+        "start": 141,
+        "end": 190
+      },
+      "anim_dance5": {
+        "start": 191,
+        "end": 216
+      },
+      "anim_dance6": {
+        "start": 217,
+        "end": 266
+      },
+      "anim_dance7": {
+        "start": 267,
+        "end": 278
+      },
+      "anim_dance8": {
+        "start": 279,
+        "end": 379
+      },
+      "anim_dance9": {
+        "start": 380,
+        "end": 495
+      },
+      "anim_dance10": {
+        "start": 496,
+        "end": 562
+      },
+      "anim_dance11": {
+        "start": 563,
+        "end": 587
+      },
+      "anim_innerarm_hand": {
+        "start": 0,
+        "end": 587
+      },
+      "anim_innerarm_lower": {
+        "start": 0,
+        "end": 587
+      },
+      "anim_innerarm_upper": {
+        "start": 0,
+        "end": 587
+      },
+      "anim_head": {
+        "start": 0,
+        "end": 587
+      },
+      "anim_jaw": {
+        "start": 0,
+        "end": 587
+      },
+      "anim_tongue": {
+        "start": 0,
+        "end": 587
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 587
+      }
+    }
+  },
+  {
+    "name": "Zombie_credits_screendoor.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 29,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_innerarm3": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_innerarm2": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_innerarm1": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_screendoor": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 28
+      }
+    }
+  },
+  {
+    "name": "Zombie_dancer.reanim",
+    "fps": 12,
+    "tracks": 26,
+    "frames": 100,
+    "clips": {
+      "anim_walk": {
+        "start": 0,
+        "end": 20
+      },
+      "anim_armraise": {
+        "start": 21,
+        "end": 31
+      },
+      "anim_eat": {
+        "start": 32,
+        "end": 64
+      },
+      "anim_death": {
+        "start": 65,
+        "end": 99
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 64
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 64
+      },
+      "anim_earing": {
+        "start": 0,
+        "end": 64
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 64
+      }
+    }
+  },
+  {
+    "name": "Zombie_digger.reanim",
+    "fps": 16,
+    "tracks": 31,
+    "frames": 200,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 17
+      },
+      "anim_walk": {
+        "start": 18,
+        "end": 54
+      },
+      "anim_eat": {
+        "start": 55,
+        "end": 87
+      },
+      "anim_death": {
+        "start": 88,
+        "end": 127
+      },
+      "anim_dig": {
+        "start": 128,
+        "end": 145
+      },
+      "anim_drill": {
+        "start": 146,
+        "end": 164
+      },
+      "anim_landing": {
+        "start": 165,
+        "end": 178
+      },
+      "anim_dizzy": {
+        "start": 179,
+        "end": 199
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 199
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 199
+      }
+    }
+  },
+  {
+    "name": "Zombie_disco.reanim",
+    "fps": 24,
+    "tracks": 35,
+    "frames": 164,
+    "clips": {
+      "anim_moonwalk": {
+        "start": 0,
+        "end": 26
+      },
+      "anim_point": {
+        "start": 27,
+        "end": 35
+      },
+      "anim_walk": {
+        "start": 46,
+        "end": 66
+      },
+      "anim_armraise": {
+        "start": 67,
+        "end": 88
+      },
+      "anim_eat": {
+        "start": 89,
+        "end": 119
+      },
+      "anim_death": {
+        "start": 120,
+        "end": 163
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 119
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 119
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 119
+      }
+    }
+  },
+  {
+    "name": "Zombie_dolphinrider.reanim",
+    "fps": 12,
+    "tracks": 40,
+    "frames": 289,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 14
+      },
+      "anim_walkdolphin": {
+        "start": 15,
+        "end": 53
+      },
+      "anim_walk": {
+        "start": 54,
+        "end": 92
+      },
+      "anim_jumpinpool": {
+        "start": 93,
+        "end": 137
+      },
+      "anim_ride": {
+        "start": 138,
+        "end": 142
+      },
+      "anim_dolphinjump": {
+        "start": 143,
+        "end": 165
+      },
+      "anim_eat": {
+        "start": 166,
+        "end": 207
+      },
+      "anim_swim": {
+        "start": 208,
+        "end": 249
+      },
+      "anim_death": {
+        "start": 250,
+        "end": 288
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 249
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 249
+      }
+    }
+  },
+  {
+    "name": "Zombie_flagpole.reanim",
+    "fps": 12,
+    "tracks": 2,
+    "frames": 13,
+    "clips": {}
+  },
+  {
+    "name": "Zombie_football.reanim",
+    "fps": 12,
+    "tracks": 25,
+    "frames": 105,
+    "clips": {
+      "anim_death": {
+        "start": 87,
+        "end": 104
+      },
+      "anim_eat": {
+        "start": 51,
+        "end": 86
+      },
+      "anim_walk": {
+        "start": 21,
+        "end": 50
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 20
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 86
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 86
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 86
+      }
+    }
+  },
+  {
+    "name": "Zombie_gargantuar.reanim",
+    "fps": 12,
+    "tracks": 42,
+    "frames": 197,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 21
+      },
+      "anim_walk": {
+        "start": 22,
+        "end": 70
+      },
+      "anim_smash": {
+        "start": 71,
+        "end": 103
+      },
+      "anim_throw": {
+        "start": 104,
+        "end": 137
+      },
+      "anim_death": {
+        "start": 138,
+        "end": 196
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 196
+      }
+    }
+  },
+  {
+    "name": "Zombie_hand.reanim",
+    "fps": 30,
+    "tracks": 24,
+    "frames": 25,
+    "clips": {}
+  },
+  {
+    "name": "Zombie_imp.reanim",
+    "fps": 12,
+    "tracks": 20,
+    "frames": 104,
+    "clips": {
+      "anim_land": {
+        "start": 98,
+        "end": 103
+      },
+      "anim_thrown": {
+        "start": 82,
+        "end": 97
+      },
+      "anim_walk": {
+        "start": 0,
+        "end": 32
+      },
+      "anim_eat": {
+        "start": 33,
+        "end": 59
+      },
+      "anim_death": {
+        "start": 60,
+        "end": 81
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 103
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 103
+      }
+    }
+  },
+  {
+    "name": "Zombie_jackbox.reanim",
+    "fps": 12,
+    "tracks": 27,
+    "frames": 103,
+    "clips": {
+      "anim_idle": {
+        "start": 13,
+        "end": 29
+      },
+      "anim_walk": {
+        "start": 30,
+        "end": 48
+      },
+      "anim_eat": {
+        "start": 49,
+        "end": 63
+      },
+      "anim_pop": {
+        "start": 64,
+        "end": 79
+      },
+      "anim_death": {
+        "start": 80,
+        "end": 102
+      },
+      "anim_head1": {
+        "start": 13,
+        "end": 79
+      },
+      "anim_head2": {
+        "start": 13,
+        "end": 79
+      }
+    }
+  },
+  {
+    "name": "Zombie_Jackson.reanim",
+    "fps": 12,
+    "tracks": 27,
+    "frames": 147,
+    "clips": {
+      "anim_moonwalk": {
+        "start": 0,
+        "end": 26
+      },
+      "anim_point": {
+        "start": 27,
+        "end": 36
+      },
+      "anim_walk": {
+        "start": 46,
+        "end": 66
+      },
+      "anim_armraise": {
+        "start": 67,
+        "end": 77
+      },
+      "anim_eat": {
+        "start": 78,
+        "end": 111
+      },
+      "anim_death": {
+        "start": 112,
+        "end": 146
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 111
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 111
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 111
+      }
+    }
+  },
+  {
+    "name": "Zombie_ladder.reanim",
+    "fps": 12,
+    "tracks": 28,
+    "frames": 215,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 24
+      },
+      "anim_ladderwalk": {
+        "start": 25,
+        "end": 71
+      },
+      "anim_laddereat": {
+        "start": 72,
+        "end": 95
+      },
+      "anim_death": {
+        "start": 96,
+        "end": 131
+      },
+      "anim_walk": {
+        "start": 132,
+        "end": 178
+      },
+      "anim_eat": {
+        "start": 179,
+        "end": 202
+      },
+      "anim_placeladder": {
+        "start": 203,
+        "end": 214
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 214
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 214
+      }
+    }
+  },
+  {
+    "name": "Zombie_paper.reanim",
+    "fps": 12,
+    "tracks": 31,
+    "frames": 216,
+    "clips": {
+      "anim_death": {
+        "start": 96,
+        "end": 131
+      },
+      "anim_eat": {
+        "start": 72,
+        "end": 95
+      },
+      "anim_eat_nopaper": {
+        "start": 192,
+        "end": 215
+      },
+      "anim_walk": {
+        "start": 25,
+        "end": 71
+      },
+      "anim_walk_nopaper": {
+        "start": 145,
+        "end": 191
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 24
+      },
+      "anim_gasp": {
+        "start": 132,
+        "end": 144
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 215
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 215
+      },
+      "anim_head_look": {
+        "start": 132,
+        "end": 144
+      },
+      "anim_head_pupils": {
+        "start": 132,
+        "end": 144
+      },
+      "anim_hairpiece": {
+        "start": 0,
+        "end": 215
+      },
+      "anim_head_jaw": {
+        "start": 0,
+        "end": 215
+      },
+      "anim_head_glasses": {
+        "start": 0,
+        "end": 215
+      }
+    }
+  },
+  {
+    "name": "Zombie_pogo.reanim",
+    "fps": 12,
+    "tracks": 27,
+    "frames": 166,
+    "clips": {
+      "anim_pogo": {
+        "start": 155,
+        "end": 165
+      },
+      "anim_death": {
+        "start": 116,
+        "end": 154
+      },
+      "anim_walk": {
+        "start": 29,
+        "end": 75
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 28
+      },
+      "anim_eat": {
+        "start": 76,
+        "end": 115
+      },
+      "anim_innerarm3": {
+        "start": 0,
+        "end": 149
+      },
+      "anim_innerarm2": {
+        "start": 0,
+        "end": 165
+      },
+      "anim_innerarm1": {
+        "start": 0,
+        "end": 165
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 165
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 165
+      },
+      "anim_head_glasses": {
+        "start": 0,
+        "end": 165
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 165
+      }
+    }
+  },
+  {
+    "name": "Zombie_polevaulter.reanim",
+    "fps": 12,
+    "tracks": 28,
+    "frames": 193,
+    "clips": {
+      "anim_idle": {
+        "start": 0,
+        "end": 12
+      },
+      "anim_run": {
+        "start": 13,
+        "end": 49
+      },
+      "anim_jump": {
+        "start": 50,
+        "end": 92
+      },
+      "anim_walk": {
+        "start": 93,
+        "end": 137
+      },
+      "anim_death": {
+        "start": 138,
+        "end": 164
+      },
+      "anim_eat": {
+        "start": 165,
+        "end": 192
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 192
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 192
+      },
+      "anim_hair": {
+        "start": 0,
+        "end": 192
+      }
+    }
+  },
+  {
+    "name": "Zombie_snorkle.reanim",
+    "fps": 12,
+    "tracks": 31,
+    "frames": 249,
+    "clips": {
+      "anim_aquarium_death": {
+        "start": 212,
+        "end": 248
+      },
+      "anim_aquarium_bite": {
+        "start": 197,
+        "end": 211
+      },
+      "anim_aquarium_swim": {
+        "start": 157,
+        "end": 185
+      },
+      "anim_death": {
+        "start": 122,
+        "end": 156
+      },
+      "anim_eat": {
+        "start": 97,
+        "end": 121
+      },
+      "anim_uptoeat": {
+        "start": 85,
+        "end": 96
+      },
+      "anim_swim": {
+        "start": 78,
+        "end": 84
+      },
+      "anim_jumpinpool": {
+        "start": 59,
+        "end": 77
+      },
+      "anim_walk": {
+        "start": 22,
+        "end": 58
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 21
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 248
+      },
+      "anim_head_lips": {
+        "start": 92,
+        "end": 226
+      },
+      "anim_head_jaw": {
+        "start": 97,
+        "end": 248
+      },
+      "anim_head_snorkle": {
+        "start": 92,
+        "end": 248
+      }
+    }
+  },
+  {
+    "name": "Zombie_surprise.reanim",
+    "fps": 12,
+    "tracks": 1,
+    "frames": 15,
+    "clips": {}
+  },
+  {
+    "name": "Zombie_yeti.reanim",
+    "fps": 20,
+    "tracks": 20,
+    "frames": 105,
+    "clips": {
+      "anim_death": {
+        "start": 78,
+        "end": 104
+      },
+      "anim_eat": {
+        "start": 49,
+        "end": 77
+      },
+      "anim_walk": {
+        "start": 15,
+        "end": 48
+      },
+      "anim_idle": {
+        "start": 0,
+        "end": 14
+      },
+      "anim_head1": {
+        "start": 0,
+        "end": 77
+      },
+      "anim_head2": {
+        "start": 0,
+        "end": 77
+      }
+    }
+  },
+  {
+    "name": "Zombie_zamboni.reanim",
+    "fps": 30,
+    "tracks": 24,
+    "frames": 62,
+    "clips": {
+      "anim_drive": {
+        "start": 0,
+        "end": 12
+      },
+      "anim_wheelie1": {
+        "start": 13,
+        "end": 28
+      },
+      "anim_wheelie2": {
+        "start": 29,
+        "end": 61
+      }
+    }
+  }
+]
