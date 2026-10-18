@@ -3,8 +3,11 @@ import Phaser from "phaser";
 import { Reanim, type Manifest } from "./reanim";
 import { Battle, type Event } from "./combat";
 import { CONFIG as C, cellX, laneY } from "./config";
+import { Online } from "./online";
+import "./online.css";
 type Effect = { type: string; x: number; y: number; life: number; max: number };
 export class Duel extends Phaser.Scene {
+  online!: Online;
   manifest!: Manifest;
   images: Record<string, HTMLImageElement> = {};
   texture!: Phaser.Textures.CanvasTexture;
@@ -62,13 +65,15 @@ export class Duel extends Phaser.Scene {
     this.input.keyboard!.addCapture(["SPACE", "UP", "DOWN", "LEFT", "RIGHT"]);
     this.input.keyboard!.on("keydown", (e: KeyboardEvent) => this.key(e));
     document.addEventListener("visibilitychange", () => {
-      if (document.hidden && this.started && !this.battle.winner)
+      if (!this.online?.session && document.hidden && this.started && !this.battle.winner)
         this.battle.paused = true;
       this.lastTick = performance.now();
     });
+    this.online = new Online(this);
     (window as any).duel = this;
   }
   reset() {
+    if (this.online?.session) { this.online.action("start"); return; }
     this.battle = new Battle();
     this.actors.clear();
     this.fx = [];
@@ -78,6 +83,7 @@ export class Duel extends Phaser.Scene {
     this.noticeTime = 5;
   }
   key(e: KeyboardEvent) {
+    if ((e.target as HTMLElement)?.closest?.("#online")) return;
     if (e.repeat) return;
     const k = e.key.toLowerCase();
     if (k === "enter" && !this.started) {
@@ -90,7 +96,7 @@ export class Duel extends Phaser.Scene {
     }
     if (k === " ") {
       if (this.started && !this.battle.winner)
-        this.battle.paused = !this.battle.paused;
+        this.togglePause();
       this.noticeTime = 0;
       return;
     }
@@ -129,6 +135,7 @@ export class Duel extends Phaser.Scene {
     this.scale.refresh();
   }
   click(x: number, y: number) {
+    if (document.activeElement?.closest("#online")) (document.activeElement as HTMLElement).blur();
     if (!this.started) {
       if (x > 490 && x < 910 && y > 565 && y < 635) this.reset();
       return;
@@ -145,7 +152,7 @@ export class Duel extends Phaser.Scene {
       return;
     }
     if (x > 1270 && y < 65) {
-      this.battle.paused = !this.battle.paused;
+      this.togglePause();
       this.noticeTime = 0;
       return;
     }
@@ -163,7 +170,12 @@ export class Duel extends Phaser.Scene {
       if (x >= 1000 && x < 1190) this.trySpawn(row);
     }
   }
+  togglePause() {
+    if (this.online?.session) this.online.action("pause");
+    else this.battle.paused = !this.battle.paused;
+  }
   tryPlant(row: number, col: number) {
+    if (this.online?.session) { if (this.online.session.role === "plants") this.online.action("plant", { type: this.plant, row, col }); return; }
     if (!this.battle.place(this.plant, row, col)) {
       this.notice = this.battle.paused
         ? "Trận đấu đang tạm dừng."
@@ -173,6 +185,7 @@ export class Duel extends Phaser.Scene {
     this.cursor = { row, col };
   }
   trySpawn(row: number) {
+    if (this.online?.session) { if (this.online.session.role === "zombies") this.online.action("spawn", { type: this.zombie, row }); return; }
     if (!this.battle.spawn(this.zombie, row)) {
       this.notice = this.battle.paused
         ? "Trận đấu đang tạm dừng."
@@ -215,7 +228,7 @@ export class Duel extends Phaser.Scene {
     const now = performance.now();
     const dt = Math.min((now - this.lastTick) / 1000, 0.25);
     this.lastTick = now;
-    if (this.started && !this.battle.paused && !this.battle.winner) {
+    if (!this.online?.session && this.started && !this.battle.paused && !this.battle.winner) {
       this.accumulator += dt;
       while (this.accumulator >= C.step) {
         this.battle.step(C.step);

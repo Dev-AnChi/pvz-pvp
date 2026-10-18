@@ -6,10 +6,12 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "prepare-assets": "node tools/convert.mjs",
-    "build": "tsc --noEmit && vite build",
+    "build": "tsc --noEmit && vite build && node tools/build-server.mjs",
     "preview": "vite preview --host 127.0.0.1",
     "simulate": "tsx tools/simulate.ts",
-    "test": "tsx tools/test.ts"
+    "test": "tsx tools/test.ts",
+    "start": "node tools/serve.mjs",
+    "test:online": "node tools/online-check.mjs"
   },
   "dependencies": {
     "phaser": "3.90.0"

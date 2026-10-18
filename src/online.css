@@ -1,0 +1,9 @@
+#online { position: fixed; z-index: 10; top: 0; left: 50%; transform: translateX(-50%); max-width: 94vw; width: max-content; padding: 8px 14px; border: 1px solid #b5a36a; border-radius: 0 0 12px 12px; background: #172b25f5; color: #f2dda1; font: 14px Arial; }
+#online summary { cursor: pointer; font-weight: bold; }
+.room-controls { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+#online button, #online input { padding: 8px; border-radius: 5px; border: 1px solid #b5a36a; font: inherit; }
+#online button { cursor: pointer; background: #d8bc6b; color: #253522; }
+#online button:disabled { opacity: .5; cursor: default; }
+#online input { width: 95px; text-transform: uppercase; }
+#online p { max-width: 650px; margin: 8px 0 0; overflow-wrap: anywhere; }
+#online [hidden] { display: none; }

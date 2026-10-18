@@ -1,0 +1,21 @@
+services:
+  pvz:
+    image: ghcr.io/dev-anchi/pvz-pvp:latest
+    ports:
+      - "127.0.0.1:4173:4173"
+    environment:
+      PORT: "4173"
+      HOST: "0.0.0.0"
+    restart: unless-stopped
+    init: true
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:4173/', {method:'HEAD', signal:AbortSignal.timeout(3000)}).then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
